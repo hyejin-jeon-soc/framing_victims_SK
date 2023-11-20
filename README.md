@@ -15,3 +15,4 @@ We collected sexual crime related articles published from January 1, 2002 to Jun
 ## Remarks
 
 The codes in this folder are still a work in progress. Feel free to suggest any modifications at any time.
+Since this research covers Korean Data, outcome presented in Korean.
